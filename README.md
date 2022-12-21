@@ -1,2 +1,2 @@
-# Pr-cticas_con_Git
+# Prácticas_con_Git
 Este repositorio está siendo creado para practicar Git.
